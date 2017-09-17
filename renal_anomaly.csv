@@ -1,0 +1,479 @@
+Id,Race,Status,Notes,Non-pelvic US,pelvic US,Non-pelvic MRI,Pelvic MRI,Non-pelvic CT,Pelvic CT,XR,Fluoro (VCUG),Other
+1,"White,Non-Hispanic",Undecided,Horseshoe kidney only. No data since 2013,1,0,1,0,1,0,1,1,0
+2,"White,Non-Hispanic",Excluded,"Bilateral vesicoureteral reflux with recurrent UTI, PUS normal. No data since 2012",1,1,1,0,1,0,0,1,0
+3,"White,Non-Hispanic",Excluded,Renal agenesis only. No data since 2005,1,0,0,0,0,0,1,1,0
+4,"Black,Non-Hispanic",Excluded,Renal agenesis. VATER. No data since 2013,1,0,1,0,1,0,1,1,0
+5,"Unknown,Unknown",Excluded,Renal agenesis. No data since 2003,1,0,0,0,0,0,0,1,0
+6,"White,Hispanic/Latino",Excluded,Right pelvic kidney. No data since 2013,1,0,1,0,1,0,1,1,1
+7,"White,Non-Hispanic",Included,OHVIRA. 12 yo. Drainged hematocolpos/pyocolpos,999,999,999,999,999,999,999,999,999
+8,"White,Non-Hispanic",Undecided,Doubled ureter. Diagnosis states doubling of uterus but likely ERROR,1,0,0,1,1,0,0,0,0
+9,"White,Non-Hispanic",Excluded,Renovascular HTN. No data since 1994,999,999,999,999,999,999,999,999,999
+10,"White,Non-Hispanic",Excluded,Renal agenesis- diabetic mother. No data since 2003,1,0,0,0,0,0,1,0,0
+11,"White,Hispanic/Latino",Excluded,Renal agenesis. No data since 2013,1,0,0,0,1,0,1,1,1
+12,"Other,Non-Hispanic",Undecided,"Polycystic kidney disease, irregular menses. No data since 2014",1,0,1,0,0,0,1,1,0
+13,"White,Hispanic/Latino",Excluded,"Tuberous sclerosis, horseshoe kidney. No data since 2014",1,0,1,0,0,1,1,1,0
+14,"White,Unknown",Included,"Congenital renal hypodysplasia, bicornuate uterus seen on OP report. Intra-op diagnosis at age 2",1,0,1,0,1,0,1,1,0
+15,"Pacific Islander,Hispanic/Latino",Excluded,21-hydroxylase CAH. Hydrocolpos. Normal ovaries,1,1,0,1,0,0,0,0,0
+16,"White,Non-Hispanic",Undecided,"Initial diagnosis didelphys, then changes to hematometra with membrane over cervix. No data since 2003",0,1,0,1,0,0,0,0,0
+17,"White,Non-Hispanic",Excluded,Obstructive uropathy 2/2 myelomingocele,1,0,1,0,1,0,1,0,0
+18,"Pacific Islander,Hispanic/Latino",Excluded,"Neurogenic bladder, pelvic kidney, imperforate anus, enterogenital fistula",1,0,1,1,1,1,1,1,1
+19,"Unknown,Unknown",Excluded,Renal agenesis. No data since 2004,1,0,0,0,1,0,1,1,1
+20,"White,Unknown",Excluded,Polycystic kidney disease. No data since 2004,0,0,1,0,0,0,0,0,0
+21,"White,Hispanic/Latino",Excluded,"Urogenital sinus s/p imperforate anus repair. Atrophic right kidney. Hydrocolpos, No data since 2008",1,1,0,0,0,0,0,1,1
+22,"White,Non-Hispanic",Excluded,Congenital ureterocele. No data since 2013,0,0,1,0,1,0,0,0,0
+23,"White,Hispanic/Latino",Excluded,Absent right kidney. No data since 2013,0,0,0,0,1,0,1,0,0
+24,"White,Non-Hispanic",Included,OHVIRA. 14yo with AUB,0,0,0,1,0,0,0,0,0
+25,"White,Non-Hispanic",Undecided,Renal agenesis. ambiguous genitalia,0,0,0,1,1,0,0,0,0
+26,"Unknown,Unknown",Excluded,"Pelvic Kidneys. No sata since 2012. Of note, do want a pelvic MRI",1,0,0,0,0,0,0,0,0
+27,"Pacific Islander,Hispanic/Latino",Undecided,Vesicouterine reflux. Doubling of ureter likely an ERROR. No data since 2009,1,0,1,0,1,0,0,1,0
+28,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2003,0,0,0,0,0,0,1,0,0
+29,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2010,1,0,0,0,0,0,1,0,0
+30,"White,Hispanic/Latino",Excluded,Renal dysplasia. Data current,1,0,0,1,0,0,1,0,0
+31,"White,Unknown",Excluded,Renal dysplasia. No data since 2004,1,0,0,0,0,0,1,0,0
+32,"White,Non-Hispanic",Included,Didelphys uterus. Pregnant,0,1,0,0,0,0,0,0,0
+33,"Other,Hispanic/Latino",Excluded,Renal Agenesis. Data current,1,0,0,0,0,0,1,1,0
+34,"Unknown,Unknown",Excluded,Renal agenesis. No data since birth,999,999,999,999,999,999,999,999,999
+35,"White,Non-Hispanic",Excluded,Renal agenesis. No data,999,999,999,999,999,999,999,999,999
+36,"White,Non-Hispanic",Excluded,"Renal agenesis, imperforate anus. No data since 2005",999,999,999,999,999,999,999,999,999
+37,"White,Non-Hispanic",Excluded,Dysplastic kidney. PUS Normal uterine anatomy.,1,1,1,1,0,0,1,0,1
+38,"White,Non-Hispanic",Excluded,Pelviectasis. No data since. No data since 2002,1,0,0,0,0,0,0,0,1
+39,"Other,Hispanic/Latino",Included,"Didelphys uterus. No notes but can tell menstrual irregularities, pregnancy",0,1,0,0,0,0,0,0,0
+40,"Black,Unknown",Excluded,Sacral agenesis. Last data 2000,1,0,0,0,0,0,0,0,0
+41,"White,Hispanic/Latino",Excluded,Renal agenesis. No data since 2009,1,0,0,0,0,0,0,0,0
+42,"Black,Non-Hispanic",Excluded,Renal agenesis. Data up to date.,1,1,0,0,0,0,1,0,0
+43,"Black,Non-Hispanic",Included,OHVIRA. congenital cloacal anomaly. Has hysterectomy of right uterus.,1,1,1,1,1,1,1,1,1
+44,"White,Non-Hispanic",Excluded,Renal agenesis. Last data 2012,1,0,1,0,1,1,1,1,1
+45,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2013,1,0,1,0,1,0,1,0,0
+46,"Black,Hispanic/Latino",Excluded,Unknown renal anomaly. No data since 2010,0,0,1,0,1,0,1,0,1
+47,"White,Non-Hispanic",Excluded,Renal agenesis. Normal PUS,1,1,0,0,0,0,0,1,0
+48,"White,Hispanic/Latino",Included,"OHVIRA, cloacal",1,1,0,1,0,1,1,1,0
+49,"Asian,Non-Hispanic",Excluded,Renal agenesis. Data up to date.,1,0,1,0,0,0,0,0,0
+50,"Unknown,Unknown",Excluded,Renal dysplasia. No data since 2006,1,0,0,0,1,0,0,0,1
+51,"White,Non-Hispanic",Excluded,Renal agenesis. VACTERL. No data since 2013,1,0,1,1,1,1,1,1,0
+52,"Other,Unknown",Excluded,Renal agenesis. No data since 2004,1,0,0,0,0,0,1,1,0
+53,"White,Non-Hispanic",Included,OHVIRA,1,0,1,1,0,0,1,1,1
+54,"White,Non-Hispanic",Excluded,Cystic kidney disease. Data current.,1,1,1,1,1,0,1,1,0
+55,"Unknown,Unknown",Excluded,Renal agenesis. No data since 2006,0,0,1,0,0,0,1,0,0
+56,"Asian,Non-Hispanic",Excluded,Congenital hypodysplasia. Last data 2013,1,0,1,0,1,0,1,0,0
+57,"White,Hispanic/Latino",Excluded,CKD. No data sine 2014,1,0,1,0,0,0,1,1,0
+58,"Other,Hispanic/Latino",Excluded,Renal agenesis. No data since 2012,1,0,0,0,1,0,1,1,1
+59,"Unknown,Unknown",Excluded,Polycystic kidney. No data since 2006,1,0,0,0,1,0,0,0,1
+60,"Pacific Islander,Hispanic/Latino",Excluded,Renal agenesis. NO data since 2012,1,0,0,0,0,0,0,0,0
+61,"White,Non-Hispanic",Excluded,Renal agenesis. Precocious puberty. No data since 2004.,1,0,0,0,1,0,0,0,0
+62,"Unknown,Unknown",Undecided,Renal agenesis. Ambiguous genitalia. No data since 2004.,1,0,1,0,0,0,1,0,0
+63,"Unknown,Unknown",Excluded,Renal agenesis. No data since 2006.,1,0,0,0,0,0,0,1,0
+64,"Unknown,Unknown",Excluded,Renal agenesis. No data since 2005,1,0,0,0,1,0,0,1,1
+65,"Unknown,Unknown",Excluded,Renal agenesis. No data since 2011,1,0,0,0,0,0,0,0,0
+66,"White,Non-Hispanic",Included,OHVIRA. Also VACTERL,1,0,1,0,1,1,1,1,0
+67,"Unknown,Unknown",Excluded,Renal agenesis. No data since 2013,1,0,0,0,0,1,1,1,0
+68,"White,Hispanic/Latino",Excluded,Renal agenesis. No data since 2013,0,0,1,0,0,0,0,0,0
+69,"White,Non-Hispanic",Included,OHVIRA. Vaginal discharge.,0,1,0,1,0,0,0,0,0
+70,"Asian,Non-Hispanic",Excluded,Renal agenesis. No data since 2007.,1,0,1,0,0,0,0,0,0
+71,"White,Non-Hispanic",Excluded,Renal agenesis. No data,999,999,999,999,999,999,999,999,999
+72,"Unknown,Unknown",Undecided,Renal agenesis. No data since 2008.,1,0,0,0,0,1,1,1,1
+73,"White,Non-Hispanic",Undecided,Renal agenesis. Didelphys coded but likely in ERROR.,1,0,0,0,1,0,0,1,1
+74,"Black,Hispanic/Latino",Excluded,Dysplastic kidney. No data since 2007,1,0,1,0,1,0,1,1,0
+75,"Other,Hispanic/Latino",Included,OHVIRA. Cloacal anomaly,1,0,1,1,0,1,1,1,0
+76,"White,Non-Hispanic",Excluded,Renal agenesis. No data,999,999,999,999,999,999,999,999,999
+77,"Other,Hispanic/Latino",Included,OHVIRA.,0,1,0,0,1,0,1,0,0
+78,"White,Non-Hispanic",Excluded,Renal agenesis. No data,0,0,0,1,0,0,0,0,1
+79,"White,Unknown",Excluded,Renal agenesis. No data,999,999,999,999,999,999,999,999,999
+80,"White,Unknown",Undecided,Coded as doubling of uterus but likely ERROR. No data,999,999,999,999,999,999,999,999,999
+81,"Other,Unknown",Excluded,Renal agenesis. No data,999,999,999,999,999,999,999,999,999
+82,"Unknown,Unknown",Included,Didelphys. Pregnant,0,1,0,0,0,0,0,0,0
+83,"White,Unknown",Excluded,Renal agenesis. No data since 2008,1,0,0,0,0,0,1,1,0
+84,"Other,Unknown",Excluded,Renal agenesis. No data,999,999,999,999,999,999,999,999,999
+85,"White,Unknown",Excluded,Renal agenesis. No data,999,999,999,999,999,999,999,999,999
+86,"White,Unknown",Excluded,Renal agenesis. No data since 2011,999,999,999,999,999,999,1,999,999
+87,"White,Non-Hispanic",Included,Didelphys. Pregnant. Normal kidneys,1,1,0,0,0,0,1,0,0
+88,"Other,Unknown",Excluded,Doubling of uterus but likely ERROR. No data.,999,999,999,999,999,999,999,999,999
+89,"White,Non-Hispanic",Included,OHVIRA. Velocardiofacial,1,0,1,1,1,0,1,0,0
+90,"White,Hispanic/Latino",Excluded,Renal agenesis. NO data since 2014,1,1,0,0,1,0,1,1,0
+91,"White,Non-Hispanic",Included,OHVIRA,1,1,1,1,1,1,1,0,1
+92,"Black,Non-Hispanic",Excluded,Renal agenesis. No data,999,999,999,999,999,999,999,999,999
+93,"Unknown,Unknown",Excluded,"Doubling of uterus, likely in ERROR. No data",999,999,999,999,999,999,999,999,999
+94,"Other,Unknown",Excluded,Renal agenesis. Limited data,999,999,999,999,999,999,999,999,999
+95,"White,Non-Hispanic",Excluded,Renal agenesis. No data.,999,999,999,999,999,999,999,999,999
+96,"Black,Non-Hispanic",Excluded,Renal agenesis. No data,999,999,999,999,999,999,999,999,999
+97,"Other,Hispanic/Latino",Included,Didelphys,0,1,0,0,1,1,1,1,1
+98,"Unknown,Unknown",Excluded,Renal agenesis. No data since 2001.,999,,,,,,,,999
+99,"Pacific Islander,Hispanic/Latino",Excluded,Renal agenesis. No data since 2007.,1,0,1,0,0,0,1,1,1
+100,"White,Non-Hispanic",Included,"OHVIRA, cloacal anomaly",1,1,1,1,1,1,1,1,0
+101,"Unknown,Unknown",Excluded,Doubling of uterus likely ERROR. No data since 2010,999,999,999,999,999,999,999,999,999
+102,"White,Unknown",Excluded,Renal agenesis. No data,999,999,999,999,999,999,999,999,999
+103,"White,Non-Hispanic",Included,Didelpys. No data,999,999,999,999,999,999,999,999,999
+104,"Asian,Non-Hispanic",Included,OHVIRA,0,1,0,0,0,0,0,0,0
+105,"Unknown,Unknown",Undecided,Turner XO,999,999,999,999,999,999,999,999,999
+106,"Unknown,Unknown",Excluded,"Renal agenesis, no data",999,999,999,999,999,999,999,999,999
+107,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2006.,1,0,0,0,1,0,1,0,1
+108,"Other,Hispanic/Latino",Excluded,Renal agenesis. No data,999,999,999,999,999,999,999,999,999
+109,"White,Non-Hispanic",Included,"OHVIRA, cloacal",1,1,1,1,1,1,1,1,0
+110,"White,Unknown",Excluded,Renal agenesis. No data,999,999,999,999,999,999,999,999,999
+111,"White,Unknown",Excluded,"Doubling of uterus, likely an ERROR. No data",999,999,999,999,999,999,999,999,999
+112,"Unknown,Unknown",Excluded,Renal agenesis. No data,999,999,999,999,999,999,999,999,999
+113,"Unknown,Unknown",Included,Didelphys. Nl kidenys. Limited data,1,1,1,1,1,1,1,0,0
+114,"Unknown,Unknown",Included,Didelphys. No data since 2008,999,999,999,999,999,999,999,999,999
+115,"Other,Hispanic/Latino",Excluded,Renal agenesis. No data since 2013,1,0,0,0,0,0,1,1,1
+116,"Other,Hispanic/Latino",Excluded,Renal agenesis. Data up to date,1,1,1,0,1,1,1,1,0
+117,"White,Unknown",Excluded,Renal agenesis. No data since 2011,1,0,1,0,0,0,1,1,0
+118,"Pacific Islander,Unknown",Included,"OHVIRA, cloacal",1,1,1,1,1,1,1,1,1
+119,"Black,Hispanic/Latino",Excluded,Doubling of uterus likely an ERROR. Data current,1,0,1,0,1,1,1,1,1
+120,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2005,1,0,0,0,0,0,0,0,0
+121,"Pacific Islander,Non-Hispanic",Excluded,Renal agenesis. No data since 2007,1,0,1,0,1,1,0,0,0
+122,"White,Non-Hispanic",Undecided,Mullerian agenesis with non-functional kidney,0,0,0,1,0,0,0,0,0
+123,"White,Non-Hispanic",Excluded,Renal agenesis. Data current.,1,0,1,0,0,0,1,0,0
+124,"White,Non-Hispanic",Undecided,Renal agenesis. ? vaginal stenosis,1,0,0,0,0,0,0,0,0
+125,"Other,Unknown",Excluded,Renal agenesis. No data since 2008,0,0,0,0,0,0,1,0,0
+126,"Other,Non-Hispanic",Excluded,Horseshoe kidney. Nl pregnancy,1,0,1,0,1,0,1,0,1
+127,"White,Non-Hispanic",Excluded,"Doubling of uterus, likely in ERROR",999,999,999,999,999,999,999,999,999
+128,"Other,Hispanic/Latino",Excluded,Renal agenesis. No data since 2014,1,0,0,0,1,0,0,0,1
+129,"Unknown,Unknown",Excluded,Renal agenesis. No data,999,999,999,999,999,999,999,999,999
+130,"White,Non-Hispanic",Included,"Didelphys, Turner XO.",999,999,999,999,999,999,1,999,999
+131,"Other,Non-Hispanic",Excluded,Renal agenesis. No data,999,999,999,999,999,999,999,1,999
+132,"White,Unknown",Excluded,"Renal agenesis, unspecified vaginal anomaly. No data",999,999,999,999,999,999,999,999,999
+133,"Pacific Islander,Non-Hispanic",Excluded,Tuberous sclerosis. No data since 2014,1,0,1,0,1,0,1,0,0
+134,"White,Non-Hispanic",Excluded,Rernal agenesis. Endometrioma,0,1,0,1,0,0,1,0,0
+135,"White,Unknown",Excluded,Renal agenesis. No data,999,999,999,999,999,999,999,999,999
+136,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2014,1,0,1,0,0,1,1,1,0
+137,"White,Hispanic/Latino",Excluded,Renal agenesis. Menorrhagia. Data up to date.,1,0,0,0,0,0,1,0,1
+138,"White,Hispanic/Latino",Excluded,Renal agenesis. No data since 2007,1,0,0,0,0,0,0,0,0
+139,"White,Non-Hispanic",Included,OHVIRA,999,999,999,999,999,999,999,999,999
+140,"White,Non-Hispanic",Excluded,Bicornuate uterus,1,1,1,1,1,1,1,1,1
+141,"White,Unknown",Excluded,Renal agenesis. No data.,999,999,999,999,999,999,999,999,999
+142,"Unknown,Unknown",Excluded,Renal agenesis. No data,999,999,999,999,999,999,999,999,999
+143,"White,Hispanic/Latino",Included,Didelphys. Pregnant,0,0,0,1,0,0,0,0,0
+144,"Unknown,Unknown",Included,OHVIRA,1,1,1,1,1,1,1,1,0
+145,"White,Hispanic/Latino",Excluded,Renal agenesis. No data since 2007.,1,0,0,0,0,0,0,1,0
+146,"White,Non-Hispanic",Excluded,Renal agenesis. Normal periods.,999,999,999,999,999,999,999,999,999
+147,"White,Non-Hispanic",Excluded,Renal agenesis. No data,999,999,999,999,999,999,999,999,999
+148,"White,Hispanic/Latino",Excluded,Renal agenesis. No data since 2012,1,0,0,0,1,1,1,1,0
+149,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2009.,1,0,0,0,0,0,1,1,1
+150,"Unknown,Unknown",Excluded,Renal agenesis. No data since 2001,1,0,0,0,0,0,,0,0
+151,"White,Non-Hispanic",Excluded,Doubling of uterus likely in ERROR,0,0,0,0,0,1,1,0,0
+152,"Unknown,Unknown",Excluded,Renal agenesis. No data,0,0,0,0,1,0,0,0,0
+153,"White,Non-Hispanic",Excluded,Renal agenesis. Nl PUS,1,0,0,0,1,0,1,1,0
+154,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 1999,1,0,0,0,0,0,1,1,0
+155,"Other,Hispanic/Latino",Excluded,Renal agenesis. No data since 2014,999,999,999,999,999,999,999,999,999
+156,"Unknown,Unknown",Excluded,Renal agenesis. No data,999,999,999,999,999,999,999,999,999
+157,"White,Non-Hispanic",Excluded,Renal agenesis. No data,0,0,0,0,0,0,0,0,1
+158,"Unknown,Unknown",Excluded,Renal agenesis. No data,999,,,,,,,,
+159,"White,Hispanic/Latino",Excluded,Renal agenesis. Data current,1,0,1,0,1,1,1,1,1
+160,"White,Non-Hispanic",Excluded,Renal agenesis. Data current,1,0,1,0,0,0,1,0,0
+161,"White,Hispanic/Latino",Included,OHVIRA,0,1,0,1,0,0,0,0,0
+162,"White,Unknown",Undecided,Renal agenesis. No data,0,0,0,0,0,0,0,1,0
+163,"White,Unknown",Excluded,Renal agenesis. No data since 2012,1,0,0,0,0,0,1,1,1
+164,"White,Unknown",Undecided,Didelphys. No data,999,999,999,999,999,999,999,999,1
+165,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2013,1,0,0,0,0,0,1,0,1
+166,"Pacific Islander,Hispanic/Latino",Included,"Bicornuate uterus, cloacal",1,0,1,0,0,1,1,1,0
+167,"White,Hispanic/Latino",Included,OHVIRA. Cloacal extrophy.,1,0,1,1,0,0,1,0,0
+168,"Unknown,Unknown",Excluded,Renal agenesis. No data,999,999,999,999,999,999,999,999,999
+169,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2013,1,0,1,0,0,0,1,0,0
+170,"Other,Hispanic/Latino",Undecided,"(caudal dysplasia sequence) Septate uterus, cloacal anomaly",1,1,1,1,1,1,1,1,1
+171,"White,Non-Hispanic",Excluded,Doubling of uterus likely an ERROR,0,0,0,0,0,0,0,0,1
+172,"White,Non-Hispanic",Excluded,Neurogenic bladder. No data since 2013,1,0,1,1,1,0,1,1,0
+173,"Other,Hispanic/Latino",Undecided,Mullerian agenesis,1,1,1,1,1,1,1,1,1
+174,"Other,Non-Hispanic",Excluded,Renal agenesis. No data since 2002,1,0,0,0,0,0,0,0,0
+175,"White,Hispanic/Latino",Included,OHVIRA,0,0,0,1,0,0,0,0,0
+176,"White,Non-Hispanic",Excluded,Renal agenesis. No data,999,999,999,999,999,999,999,999,999
+177,"White,Non-Hispanic",Undecided,Mullerian agenesis,0,0,0,0,0,0,1,1,0
+178,"Unknown,Unknown",Excluded,Renal agenesis. No data,1,0,0,0,0,0,0,0,0
+179,"White,Non-Hispanic",Excluded,Renal agenesis. No data,999,999,999,999,999,999,999,999,999
+180,"Other,Non-Hispanic",Excluded,Renal agenesis. No data since 2013,1,0,0,0,0,0,1,1,0
+181,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2010,999,999,999,999,999,999,999,999,999
+182,"Unknown,Unknown",Undecided,"Duplicate vagina, bifed cervix",1,0,1,1,0,0,1,1,0
+183,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2014,1,1,0,0,1,1,1,1,1
+184,"White,Hispanic/Latino",Excluded,Renal agenesis. nl PUS,1,1,0,0,1,1,1,1,1
+185,"Unknown,Unknown",Included,"Didelphys, horseshoe kidney",1,0,0,1,0,0,0,0,0
+186,"Unknown,Unknown",Included,OHVIRA,1,1,1,1,0,0,0,0,0
+187,"Unknown,Unknown",Excluded,Renal agenesis. No data since 2005,1,0,1,0,1,0,1,1,1
+188,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2001.,1,0,0,0,0,0,0,1,0
+189,"White,Hispanic/Latino",Excluded,Renal agenesis. No data,999,999,999,999,999,999,999,999,999
+190,"White,Non-Hispanic",Included,Didelphys,999,999,999,999,999,999,999,999,999
+191,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 1999,,,,,,,,,
+192,"White,Non-Hispanic",Excluded,Renal agenesis. Data current,,,,,,,,,
+193,"Pacific Islander,Hispanic/Latino",Included,Cloacal anomaly. ? OHVIRA,,,,,,,,,
+194,"Pacific Islander,Hispanic/Latino",Included,OHVIRA,,,,,,,,,
+195,"White,Non-Hispanic",Included,OHVIRA. Genetics note,,,,,,,,,
+196,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 1999,,,,,,,,,
+197,"White,Non-Hispanic",Excluded,Ureterocele. No data since 2000,,,,,,,,,
+198,"Other,Hispanic/Latino",Excluded,"Renal dysplasia, duplication. Nl PUS",,,,,,,,,
+199,"White,Hispanic/Latino",Included,OHVIRA,,,,,,,,,
+200,"White,Non-Hispanic",Excluded,Fanconi's anemia. B/l pelvic kidney. Data current,,,,,,,,,
+201,"Unknown,Unknown",Included,Didelphys.,,,,,,,,,
+202,"White,Non-Hispanic",Included,OHVIRA,,,,,,,,,
+203,"Unknown,Unknown",Excluded,Klippel Feil. Mossaic XO. No data since 2007.,,,,,,,,,
+204,"Pacific Islander,Hispanic/Latino",Excluded,VATER. No data since 2009.,,,,,,,,,
+205,"White,Non-Hispanic",Excluded,Renal agenesis. No data,,,,,,,,,
+206,"Other,Hispanic/Latino",Excluded,Renal dysplasia. PCOS. Infertility.,,,,,,,,,
+207,"Unknown,Unknown",Excluded,Imporforate anus. Tethered cord. No data since 2000,,,,,,,,,
+208,"White,Unknown",Excluded,Dysplastic/hypoplastic kidneys. NO data since 2008.,,,,,,,,,
+209,"Unknown,Unknown",Excluded,IgA nephropathy. No data since 2004.,,,,,,,,,
+210,"Asian,Non-Hispanic",Excluded,Sacrococcygeal teratoma. Vesicovaginal fistula. DOubling of uterus likely ERROR. NO data since 2013,,,,,,,,,
+211,"Unknown,Unknown",Excluded,Renal agenesis. No data since 2001,,,,,,,,,
+212,"White,Non-Hispanic",Excluded,Renal agenesis incompatible with life.,,,,,,,,,
+213,"Other,Hispanic/Latino",Excluded,POlyangiitis. Nl PUS.,,,,,,,,,
+214,"White,Non-Hispanic",Excluded,Dysplastic kidney. NO data since 2010,,,,,,,,,
+215,"White,Unknown",Excluded,Branchiotorenal syndrome. No data since 2002,,,,,,,,,
+216,"White,Non-Hispanic",Excluded,Dysplastic kidneys. NO data since 2013,,,,,,,,,
+217,"White,Non-Hispanic",Excluded,Renal agenesis. No documentation.,,,,,,,,,
+218,"Unknown,Unknown",Excluded,Renal agenesis. No data since birth,,,,,,,,,
+219,"White,Non-Hispanic",Excluded,Renal dysplasia. No data since 2009.,,,,,,,,,
+220,"Asian,Non-Hispanic",Undecided,Dysplastic R kidney. Ectopic fallopian tube.,,,,,,,,,
+221,"White,Non-Hispanic",Included,OHVIRA. Only on imaging. No notes,,,,,,,,,
+222,"Other,Hispanic/Latino",Included,Clocal. Vater. Uterine septum. Look at last note.,,,,,,,,,
+223,"White,Unknown",Excluded,Nepthrotic syndrome. No data since 2002.,,,,,,,,,
+224,"Pacific Islander,Hispanic/Latino",Excluded,Wilm's tumor. No data since 2010,,,,,,,,,
+225,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2002.,,,,,,,,,
+226,"Unknown,Unknown",Excluded,Renal agenesis. No data since 2002,,,,,,,,,
+227,"White,Unknown",Excluded,ESRD from chronic pyelo. NO data since 2003,,,,,,,,,
+228,"Unknown,Unknown",Excluded,Dysplastic kidney. No data since 2008.,,,,,,,,,
+229,"Asian,Non-Hispanic",Excluded,Glomerulonephritis.,,,,,,,,,
+230,"White,Non-Hispanic",Excluded,Kidney laceration,,,,,,,,,
+231,"White,Non-Hispanic",Excluded,Renal agenesis. NO data since 2006.,,,,,,,,,
+232,"White,Non-Hispanic",Excluded,Pyelonephritis.,,,,,,,,,
+233,"White,Non-Hispanic",Excluded,"TOF, deafness, ear anomalies. Renal agenesis.",,,,,,,,,
+234,"White,Non-Hispanic",Excluded,Pollen's syndrome. Renal agenesis. No data since 2002.,,,,,,,,,
+235,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2013,,,,,,,,,
+236,"Unknown,Unknown",Included,"Cloacal anomaly. Bicornuate uterus, dysplastic kidney. NO data since 2013.",,,,,,,,,
+237,"Black,Hispanic/Latino",Excluded,Nephropathy.,,,,,,,,,
+238,"Unknown,Unknown",Excluded,Dysplastic kidney. No data since 2006,,,,,,,,,
+239,"White,Hispanic/Latino",Included,OHVIRA vs Didelphys. VACTERL,,,,,,,,,
+240,"White,Non-Hispanic",Included,OHVIRA,,,,,,,,,
+241,"White,Hispanic/Latino",Included,OHVIRA,,,,,,,,,
+242,"White,Unknown",Excluded,Pyelonephritis,,,,,,,,,
+243,"Unknown,Unknown",Excluded,Dysplastic kidney. No data sicne 2008,,,,,,,,,
+244,"White,Unknown",Excluded,"Doubling of uterus entered, likely in ERROR. No data",,,,,,,,,
+245,"Pacific Islander,Hispanic/Latino",Excluded,Renal agenesis. No data since 2012,,,,,,,,,
+246,"White,Unknown",Excluded,VACTERL,,,,,,,,,
+247,"White,Non-Hispanic",Excluded,Renal agenesis. Data current,,,,,,,,,
+248,"White,Non-Hispanic",Excluded,Renal agenesis. No data since birth,,,,,,,,,
+249,"Unknown,Unknown",Excluded,Dysplastic kidney,,,,,,,,,
+250,"Other,Non-Hispanic",Excluded,Pyelonephritis,,,,,,,,,
+251,"White,Non-Hispanic",Excluded,Scarred kidney,,,,,,,,,
+252,"White,Non-Hispanic",Included,Doubling of uterus. No data,,,,,,,,,
+253,"Asian,Non-Hispanic",Undecided,Absent vagina. Craniofacial.,,,,,,,,,
+254,"Asian,Non-Hispanic",Excluded,Renal agenesis. No data since 2008,,,,,,,,,
+255,"Native American,Non-Hispanic",Excluded,Spina bifida. Horseshoe kidney. No data since 2013,,,,,,,,,
+256,"White,Non-Hispanic",Excluded,Polycystic kidney disease,,,,,,,,,
+257,"Asian,Non-Hispanic",Excluded,Renal agenesis. No data since birth.,,,,,,,,,
+258,"White,Hispanic/Latino",Excluded,Renal ectopia,,,,,,,,,
+259,"White,Non-Hispanic",Excluded,Doubling of uterus likely in ERROR. Duplication of ureter.,,,,,,,,,
+260,"Other,Hispanic/Latino",Excluded,Dysplastic kidney. Normal PUS,,,,,,,,,
+261,"Unknown,Unknown",Excluded,Hydronephrosis,,,,,,,,,
+262,"Asian,Non-Hispanic",Excluded,Horseshoe kidney,,,,,,,,,
+263,"White,Hispanic/Latino",Excluded,22q.,,,,,,,,,
+264,"Asian,Non-Hispanic",Excluded,Polycystic kidneys,,,,,,,,,
+265,"White,Non-Hispanic",Excluded,ERROR,,,,,,,,,
+266,"White,Hispanic/Latino",Undecided,Ectopic ureter. Atrophic kideny,,,,,,,,,
+267,"Black,Non-Hispanic",Excluded,Renal agenesis. No data,,,,,,,,,
+268,"Unknown,Unknown",Excluded,Nephroma,,,,,,,,,
+269,"White,Hispanic/Latino",Excluded,Pelviectasis.,,,,,,,,,
+270,"Other,Unknown",Excluded,Renal agenesis.,,,,,,,,,
+271,"White,Hispanic/Latino",Excluded,Renal agenesis. No data since birth.,,,,,,,,,
+272,"White,Non-Hispanic",Excluded,Hydronephrosis,,,,,,,,,
+273,"White,Hispanic/Latino",Excluded,Ureterocele,,,,,,,,,
+274,"White,Non-Hispanic",Excluded,"Rectovaginal fistula, absent left labia majora. Absent kideny",,,,,,,,,
+275,"White,Hispanic/Latino",Excluded,Renal agenesis. No data since 2009,,,,,,,,,
+276,"White,Non-Hispanic",Excluded,Renal dysplasia. Nl PUS,,,,,,,,,
+277,"Asian,Non-Hispanic",Excluded,Horseshoe kidney,,,,,,,,,
+278,"Other,Non-Hispanic",Excluded,Dysplastic kidney,,,,,,,,,
+279,"White,Hispanic/Latino",Excluded,Scarred kidney,,,,,,,,,
+280,"Unknown,Unknown",Excluded,Renal agenesis. TOF. No data since 2007,,,,,,,,,
+281,"Other,Hispanic/Latino",Included,"OHVIRA, cloacal",,,,,,,,,
+282,"Unknown,Unknown",Excluded,Renal agenesis. No data since birth,,,,,,,,,
+283,"Pacific Islander,Hispanic/Latino",Excluded,Horseshoe kidney,,,,,,,,,
+284,"White,Non-Hispanic",Excluded,Renal agenesis. Velocardiofacial,,,,,,,,,
+285,"Native American,Hispanic/Latino",Excluded,Hydronephrosis.,,,,,,,,,
+286,"Unknown,Unknown",Excluded,"Tethered cord, pelviectasis. No data since birth",,,,,,,,,
+287,"Other,Non-Hispanic",Excluded,Dysplastic kidney,,,,,,,,,
+288,"Other,Hispanic/Latino",Undecided,Renal agenesis. ? No uterus. 22q11,,,,,,,,,
+289,"White,Non-Hispanic",Excluded,Renal agenesis. No data since birth,,,,,,,,,
+290,"White,Non-Hispanic",Excluded,Renal dysgenesis. No data since birth,,,,,,,,,
+291,"White,Non-Hispanic",Excluded,Ureterocele.,,,,,,,,,
+292,"Pacific Islander,Hispanic/Latino",Undecided,Turner. Horseshoe kidney,,,,,,,,,
+293,"Pacific Islander,Hispanic/Latino",Excluded,Renal agenesis. No data since 2013,,,,,,,,,
+294,"Pacific Islander,Hispanic/Latino",Excluded,Renal agenesis? No data since birth,,,,,,,,,
+295,"Unknown,Unknown",Included,OHVIRA,,,,,,,,,
+296,"Unknown,Unknown",Excluded,Fetus in fetu x4,,,,,,,,,
+297,"White,Non-Hispanic",Included,"Vaginal septum, two cervices. Nodidelphys.",,,,,,,,,
+298,"White,Non-Hispanic",Excluded,Renal agenesis. Hirschprung,,,,,,,,,
+299,"White,Hispanic/Latino",Excluded,Renal agenesis. no data since 2011,,,,,,,,,
+300,"Unknown,Unknown",Excluded,Dysplastic kidney,,,,,,,,,
+301,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2007.,,,,,,,,,
+302,"White,Hispanic/Latino",Excluded,Vesicoureteral reflux,,,,,,,,,
+303,"White,Non-Hispanic",Excluded,Dysplastic kidneys,,,,,,,,,
+304,"White,Hispanic/Latino",Excluded,Duplicated ureter,,,,,,,,,
+305,"Other,Hispanic/Latino",Excluded,Dysplastic kideny,,,,,,,,,
+306,"Pacific Islander,Hispanic/Latino",Undecided,Renal agenesis. No left ovary,,,,,,,,,
+307,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2013,,,,,,,,,
+308,"Pacific Islander,Hispanic/Latino",Excluded,Renal agenesis. No data since 2010,,,,,,,,,
+309,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2010,,,,,,,,,
+310,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2010,,,,,,,,,
+311,"Unknown,Unknown",Excluded,Renal agenesis. No data,,,,,,,,,
+312,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2007.,,,,,,,,,
+313,"Black,Hispanic/Latino",Excluded,Renal agenesis. TOF.,,,,,,,,,
+314,"Unknown,Hispanic/Latino",Undecided,Mullerian agenesis. Renal agenesis. No data since 2012,,,,,,,,,
+315,"Pacific Islander,Hispanic/Latino",Excluded,Renal dysplasia.,,,,,,,,,
+316,"White,Hispanic/Latino",Excluded,COACH syndrome,,,,,,,,,
+317,"White,Non-Hispanic",Excluded,Dysplastic kidney,,,,,,,,,
+318,"White,Hispanic/Latino",Excluded,Vesicoureteral reflux,,,,,,,,,
+319,"Unknown,Unknown",Excluded,Renal agenesis. No data,,,,,,,,,
+320,"White,Hispanic/Latino",Excluded,VCUG,,,,,,,,,
+321,"White,Hispanic/Latino",Included,OHVIRA,,,,,,,,,
+322,"Unknown,Unknown",Excluded,"Renal agenesis. VSD, tethered cord.No data since birth",,,,,,,,,
+323,"Pacific Islander,Hispanic/Latino",Undecided,Ectopic ureter into vagina.,,,,,,,,,
+324,"White,Non-Hispanic",Excluded,Horseshoe kidney,,,,,,,,,
+325,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2008.,,,,,,,,,
+326,"White,Non-Hispanic",Included,OHVIRA. Limited data,,,,,,,,,
+327,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2013,,,,,,,,,
+328,"White,Hispanic/Latino",Included,? OHVIRA. Dysplastic kidney,,,,,,,,,
+329,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2013,,,,,,,,,
+330,"White,Non-Hispanic",Excluded,Renal agenesis. Biliary atresia.,,,,,,,,,
+331,"White,Hispanic/Latino",Excluded,VCUG,,,,,,,,,
+332,"White,Non-Hispanic",Included,Imperforate hymen vs OHVIRA,,,,,,,,,
+333,"Asian,Non-Hispanic",Excluded,Dysplastic kideny,,,,,,,,,
+334,"White,Hispanic/Latino",Included,? OHVIRA,,,,,,,,,
+335,"White,Non-Hispanic",Excluded,Pelvic kidney,,,,,,,,,
+336,"White,Hispanic/Latino",Excluded,Dysplastic kidney,,,,,,,,,
+337,,Excluded,Hypoplastic kidneys,,,,,,,,,
+338,"Other,Non-Hispanic",Excluded,Wilms tumor. Nl uterus,,,,,,,,,
+339,"Other,Hispanic/Latino",Excluded,Renal agenesis. No data since 2008,,,,,,,,,
+340,"White,Non-Hispanic",Excluded,Trisomy 18,,,,,,,,,
+341,"Pacific Islander,Hispanic/Latino",Included,"OHVIRA cloacal anomaly, tethered cord",,,,,,,,,
+342,"White,Hispanic/Latino",Excluded,Pelvic kidney,,,,,,,,,
+343,"White,Non-Hispanic",Excluded,Small kidneys,,,,,,,,,
+344,"Asian,Non-Hispanic",Excluded,Renal agenesis. T21,,,,,,,,,
+345,"Pacific Islander,Hispanic/Latino",Excluded,Pelvic kidneys,,,,,,,,,
+346,"White,Hispanic/Latino",Included,"OHVIRA, Vacterl",,,,,,,,,
+347,"Other,Hispanic/Latino",Excluded,Polycystic kidney disease,,,,,,,,,
+348,"Other,Hispanic/Latino",Undecided,Renal agenesis. No data since 2011,,,,,,,,,
+349,"White,Non-Hispanic",Included,OHVIRA vs Didelphys with horshoe kidney. See note.,,,,,,,,,
+350,"Asian,Non-Hispanic",Included,OHVIRA,,,,,,,,,
+351,"White,Non-Hispanic",Excluded,Renal agenesis. Nl PUS,,,,,,,,,
+352,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2009,,,,,,,,,
+353,"White,Non-Hispanic",Excluded,Urinary retention,,,,,,,,,
+354,"White,Hispanic/Latino",Included,Bicornuate with absent kidneyOHVIRA. MisreAD,,,,,,,,,
+355,"White,Hispanic/Latino",Excluded,Renal agenesis. DiGeorge. Tethered cord. No data since 2010,,,,,,,,,
+356,"White,Hispanic/Latino",Excluded,Cystic kidney,,,,,,,,,
+357,"Pacific Islander,Hispanic/Latino",Excluded,Dysplastic kidney,,,,,,,,,
+358,"White,Hispanic/Latino",Excluded,Duplicated renal system,,,,,,,,,
+359,"White,Hispanic/Latino",Excluded,Renal agenesis. No data since 2009,,,,,,,,,
+360,"White,Hispanic/Latino",Excluded,OHVIRA? Vater. Nl PUD. Think it is ERROR,,,,,,,,,
+361,"White,Non-Hispanic",Excluded,VCUG,,,,,,,,,
+362,"Unknown,Unknown",Excluded,Horseshoe kideny,,,,,,,,,
+363,"White,Hispanic/Latino",Excluded,Renal ectpoia,,,,,,,,,
+364,"Unknown,Unknown",Excluded,Renal agenesis,,,,,,,,,
+365,"Other,Hispanic/Latino",Excluded,Trisomy 21,,,,,,,,,
+366,"Pacific Islander,Hispanic/Latino",Included,OHVIRA,,,,,,,,,
+367,"Pacific Islander,Hispanic/Latino",Excluded,Renal agenesis. No data since 2010,,,,,,,,,
+368,"Other,Non-Hispanic",Excluded,Renal agenesis. No data since 2013,,,,,,,,,
+369,"Unknown,Unknown",Excluded,Horseshoe kideny,,,,,,,,,
+370,"Asian,Non-Hispanic",Excluded,Cystic kidneys,,,,,,,,,
+371,"Unknown,Unknown",Excluded,Renal agenesis. No data since 2012,,,,,,,,,
+372,"White,Hispanic/Latino",Excluded,Trisomy 18. Dysplastic kidneys,,,,,,,,,
+373,"White,Hispanic/Latino",Excluded,Renal agenesis. No data since 2010,,,,,,,,,
+374,"White,Hispanic/Latino",Undecided,"VACTERL, perineal mass",,,,,,,,,
+375,"White,Non-Hispanic",Excluded,"Pelvic kidney, tethered cord. No data since 2013",,,,,,,,,
+376,"Other,Hispanic/Latino",Excluded,Renal agenesis. No data since 2013,,,,,,,,,
+377,"White,Non-Hispanic",Excluded,Tuberous sclerosis. Angiomyolipomas of the kidney,,,,,,,,,
+378,"White,Non-Hispanic",Excluded,Horseshoe kidney. VCUG.No data since 2012,,,,,,,,,
+379,"Unknown,Unknown",Excluded,Renal agenesis. No data,,,,,,,,,
+380,"White,Hispanic/Latino",Excluded,Dysplastic kidney,,,,,,,,,
+381,"White,Non-Hispanic",Excluded,Horseshoe kidney,,,,,,,,,
+382,"White,Non-Hispanic",Excluded,Cystic kidney.,,,,,,,,,
+383,"Other,Non-Hispanic",Excluded,Renal agenesis.,,,,,,,,,
+384,"Unknown,Unknown",Excluded,Renal agenesis,,,,,,,,,
+385,"White,Non-Hispanic",Excluded,Renal hypoplasia,,,,,,,,,
+386,"White,Hispanic/Latino",Excluded,Dysplastic kidney,,,,,,,,,
+387,"Pacific Islander,Hispanic/Latino",Included,OHVIRA,,,,,,,,,
+388,"White,Non-Hispanic",Excluded,Wilms tumor.,,,,,,,,,
+389,"White,Non-Hispanic",Excluded,Renal agenesis?,,,,,,,,,
+390,"Unknown,Hispanic/Latino",Excluded,Hypoplastic kidney,,,,,,,,,
+391,"Unknown,Unknown",Included,OHVIRA,,,,,,,,,
+392,"Unknown,Unknown",Included,?OHVIRA vs septate uterus,,,,,,,,,
+393,"White,Non-Hispanic",Excluded,Wilms tumor,,,,,,,,,
+394,"Unknown,Unknown",Excluded,Dysplastic kidney,,,,,,,,,
+395,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2013,,,,,,,,,
+396,"Other,Hispanic/Latino",Excluded,Renal agenesis. Hirschsprungs,,,,,,,,,
+397,"Unknown,Unknown",Included,Didelphys. Pregnant. No data,,,,,,,,,
+398,"Unknown,Unknown",Excluded,Dysplastic kidneys.,,,,,,,,,
+399,"Unknown,Unknown",Excluded,Renal agenesis. No data since 2011,,,,,,,,,
+400,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2012,,,,,,,,,
+401,"White,Non-Hispanic",Excluded,?ERROR,,,,,,,,,
+402,"Other,Hispanic/Latino",Undecided,Ureterocele. ? Cystic ovary,,,,,,,,,
+403,"Unknown,Unknown",Excluded,No dx.,,,,,,,,,
+404,"Unknown,Hispanic/Latino",Included,Didelphys,,,,,,,,,
+405,"White,Non-Hispanic",Included,OHVIRA,,,,,,,,,
+406,"Unknown,Unknown",Included,OHVIRA,,,,,,,,,
+407,"White,Non-Hispanic",Excluded,Renal hypoplasia,,,,,,,,,
+408,"Unknown,Unknown",Excluded,Renal agenesis. DiGeorge. No data since 2011,,,,,,,,,
+409,"White,Non-Hispanic",Excluded,Renal agenesis. VACTERL. No data since 2013,,,,,,,,,
+410,"Unknown,Unknown",Excluded,Renal artery stenosis,,,,,,,,,
+411,"Other,Hispanic/Latino",Excluded,Dysplastic kideny. No data since 2011,,,,,,,,,
+412,"Unknown,Unknown",Excluded,Pelvic kidney,,,,,,,,,
+413,"Other,Hispanic/Latino",Excluded,Horseshoe kidney. NO data since 2013,,,,,,,,,
+414,"Asian,Non-Hispanic",Excluded,Multicystic dysplastic kidney,,,,,,,,,
+415,"Unknown,Unknown",Excluded,Hypertensive kidney disease,,,,,,,,,
+416,"Unknown,Unknown",Excluded,Horseshoe kidney,,,,,,,,,
+417,"Unknown,Unknown",Excluded,Renal agenesis. No data,,,,,,,,,
+418,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2013,,,,,,,,,
+419,"Unknown,Unknown",Excluded,Hydronephrosis. Horseshoe kidney,,,,,,,,,
+420,"Other,Hispanic/Latino",Included,"OHVIRA, cloacal anomaly.",,,,,,,,,
+421,"White,Non-Hispanic",Excluded,Dysplastic kidneys. Uterus not well visualized.,,,,,,,,,
+422,"Unknown,Unknown",Excluded,Renal agenesis. Normal uterus,,,,,,,,,
+423,"Unknown,Unknown",Included,Didelphys,,,,,,,,,
+424,"Unknown,Unknown",Undecided,Turner's,,,,,,,,,
+425,"Pacific Islander,Non-Hispanic",Excluded,Renal agenesis. No data since 2013,,,,,,,,,
+426,"Other,Hispanic/Latino",Excluded,Renal hypoplasia.,,,,,,,,,
+427,"White,Non-Hispanic",Excluded,UTI.,,,,,,,,,
+428,"White,Non-Hispanic",Excluded,Renal agenesis. No data since birth,,,,,,,,,
+429,"Unknown,Unknown",Excluded,? Spinal disease,,,,,,,,,
+430,"Unknown,Unknown",Excluded,Renal agenesis. No data since 2013,,,,,,,,,
+431,"White,Hispanic/Latino",Excluded,Dysplastic kidneys. No Data since 2013,,,,,,,,,
+432,"Unknown,Unknown",Excluded,Renal agenesis. No data since 2013,,,,,,,,,
+433,"Other,Non-Hispanic",Included,Cloacal anomaly,,,,,,,,,
+434,"Other,Hispanic/Latino",Excluded,Congenital anomaly of vagina. No data,,,,,,,,,
+435,"White,Non-Hispanic",Excluded,Duplicated ureter.,,,,,,,,,
+436,"Unknown,Unknown",Excluded,Renal agenesis. No data since 2012,,,,,,,,,
+437,"Asian,Non-Hispanic",Excluded,Renal agenesis. No data since 2013,,,,,,,,,
+438,"White,Non-Hispanic",Excluded,Dysplastic kidneys,,,,,,,,,
+439,"Other,Non-Hispanic",Excluded,Renal agenesis. No data since 2013,,,,,,,,,
+440,"Other,Hispanic/Latino",Excluded,Dysplastic kidney. MRI negative,,,,,,,,,
+441,"Unknown,Unknown",Excluded,Renal agenesis. No data,,,,,,,,,
+442,"Asian,Non-Hispanic",Undecided,Renal agenesis. Ovarian cysts.,,,,,,,,,
+443,"Unknown,Unknown",Excluded,Congenital renal hypoplasia only,,,,,,,,,
+444,"White,Hispanic/Latino",Excluded,Horseshoe kiney,,,,,,,,,
+445,"Other,Hispanic/Latino",Excluded,Renal agenesis. Nl PUS,,,,,,,,,
+446,"Pacific Islander,Non-Hispanic",Excluded,Renal agenesis,,,,,,,,,
+447,"Unknown,Unknown",Excluded,Renal agenesis. No data,,,,,,,,,
+448,"Pacific Islander,Non-Hispanic",Excluded,Renal agenesis,,,,,,,,,
+449,"Other,Hispanic/Latino",Excluded,Renal agenesis. No data since birth,,,,,,,,,
+450,"White,Non-Hispanic",Excluded,Renal agenesis. No data since 2013,,,,,,,,,
+451,"Other,Hispanic/Latino",Excluded,Nephrectomy s/p gunshot wound. Nl PUS,,,,,,,,,
+452,"Other,Hispanic/Latino",Excluded,Renal agenesis. No data since 2013,,,,,,,,,
+453,"Unknown,Unknown",Excluded,Dysplastic kidney,,,,,,,,,
+454,"Unknown,Non-Hispanic",Excluded,VACTERL,,,,,,,,,
+455,"Unknown,Unknown",Undecided,Bicornuate uterus,,,,,,,,,
+456,"White,Non-Hispanic",Excluded,Bilateral renal agenesis.,,,,,,,,,
+457,"Unknown,Unknown",Excluded,Renal agenesis. No data,,,,,,,,,
+458,"White,Hispanic/Latino",Excluded,Tetraolgy of Fallot. renal anomaly,,,,,,,,,
+459,"Unknown,Unknown",Excluded,Renal agenesis. No data since 2013,,,,,,,,,
+460,"White,Non-Hispanic",Included,OHVIRA,,,,,,,,,
+461,"Unknown,Unknown",Included,OHVIRA,,,,,,,,,
+462,"Other,Non-Hispanic",Excluded,ESRD. No data,,,,,,,,,
+463,"Unknown,Unknown",Excluded,Fused renal ectopia.,,,,,,,,,
+464,"White,Non-Hispanic",Excluded,Duplicated right ureter.,,,,,,,,,
+465,"Unknown,Unknown",Excluded,,,,,,,,,,
+466,"Unknown,Unknown",Excluded,Renal agenesis. No data since 2014,,,,,,,,,
+467,"Unknown,Unknown",Excluded,Renal agenesis. No data,,,,,,,,,
+468,"Unknown,Unknown",Included,OHVIRA. Limited data.,,,,,,,,,
+469,"White,Non-Hispanic",Excluded,Renal agenesis. Imporforate anus.,,,,,,,,,
+470,"Unknown,Unknown",Excluded,Renal agenesis. No data.,,,,,,,,,
+471,"Unknown,Unknown",Undecided,Renal agenesis. No data.,,,,,,,,,
+472,"White,Hispanic/Latino",Excluded,Renal agenesis. No data,,,,,,,,,
+473,"Unknown,Unknown",Excluded,Polycystic kidney disease,,,,,,,,,
+474,"Other,Hispanic/Latino",Undecided,Bicornuate uterus. Pregnant,,,,,,,,,
+475,"White,Non-Hispanic",Excluded,VACTERL,,,,,,,,,
+476,"White,Non-Hispanic",Undecided,Bicornuate uterus. Pregnant,,,,,,,,,
+477,"White,Non-Hispanic",Undecided,,,,,,,,,,
+478,"Asian,Non-Hispanic",Included,,,,,,,,,,
